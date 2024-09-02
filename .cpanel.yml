@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/sainatip/public_html/
-    - /_site/ -R $DEPLOYPATH
+    - /bin/cp -R _site $DEPLOYPATH
