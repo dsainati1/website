@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/example/public_html/
+    - /_site/ index.html $DEPLOYPATH
+    - /_site/assets main.css $DEPLOYPATH
