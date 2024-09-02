@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 @import "vars";
 
 /*
@@ -13,7 +13,7 @@ html {
 
 body {
     margin: 0;
-    font-family: "Raleway";
+    font-family: "Source Code Pro";
     height: 100%;
     background-color: #003153;
     color: $text-color;
@@ -35,15 +35,6 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-.profile-picture {
-    height: 300;
-    width: 200;
-}
-
-.about-me {
-    height: 300;
-    width: 200;
-}
 
 
 /*
@@ -100,10 +91,11 @@ hr {
 .about-me {
     img {
         float: right;
-        width: 40%;
-        max-width: 1080px;
-        margin-left: 10px;
+        height: $img-height;
+        margin-left: 100px;
     }
+
+    height: $img-height;
 }
 
 /* Mobile */
@@ -126,7 +118,7 @@ hr {
 
     .about-me {
         img {
-            float: right;
+            float: left;
             width: 100%;
             height: 300px;
             object-fit: cover;

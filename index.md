@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 <div class="about-me">
-<img style="float: right; margin: auto;" class="profile-picture" src="/picture.jpg" width="200">
+<img class="profile-picture" src="/picture.jpg">
 
 <p>
 I am a first-year PhD student in the <a href="https://www.cis.upenn.edu/~plclub/">PLClub</a> at the <a href="https://www.cis.upenn.edu/">University of Pennsylvania</a>,
