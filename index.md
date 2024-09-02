@@ -22,24 +22,24 @@ Daniel Sainati, Adrian Sampson\
 # Teaching
 
 ### Cornell
-* CS 6110 (Advanced Programming Langauges)
+* [ ***CS 6110*** ] **Advanced Programming Langauges**
     * Teaching Assistant: Spring 2018
 
 
-* CS 4810 (Introduction to Theory of Computing)
+* [ ***CS 4810*** ] **Introduction to Theory of Computing**
     * Teaching Assistant: Fall 2017
 
 
-* CS 3152 (Introduction to Computer Game Development) 
+* [ ***CS 3152*** ] **Introduction to Computer Game Development**
     * Teaching Assistant: Fall Spring 2017
 
 
-* CS 3110 (Data Structures and Functional Programming) 
+* [ ***CS 3110*** ] **Data Structures and Functional Programming**
     * Head Teaching Assistant: Fall 2016
     * Teaching Assistant: Fall 2015, Spring 2016
 
 
-* CS 2110 (Object‑Oriented Programming and Data Structures) 
+* [ ***CS 2110*** ] **Object‑Oriented Programming and Data Structures**
     * Consultant: Spring 2015
 
 # Other Work
