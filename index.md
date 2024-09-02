@@ -11,7 +11,7 @@ My research is supported by the [NSF CSGrad4US Fellowship](https://new.nsf.gov/c
 Previously, I worked in industry at [Meta](https://opensource.fb.com/) and the [Flow Foundation](https://flow.com/).
 Before that, I did my B.S. and M.Eng. at [Cornell](https://www.cs.cornell.edu/), where I was advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/). 
 
-You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or take a look at my [CV](./cv.pdf).
+You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or take a look at my [CV](./CV.pdf).
 
 # Publications
 
