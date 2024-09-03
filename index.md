@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img class="profile-picture" src="/picture.png"> 
+<img class="profile-picture" src="/picture.jpg"> 
 
 # About Me
 
