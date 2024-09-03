@@ -2,6 +2,7 @@
 layout: default
 ---
 <img class="profile-picture" src="/picture.jpg"> 
+
 # About Me
 
 I am a first-year PhD student in the [PLClub](https://www.cis.upenn.edu/~plclub/) at the [University of Pennsylvania](https://www.cis.upenn.edu/),

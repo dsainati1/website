@@ -88,10 +88,32 @@ ul ul {
 
 /* Mobile */
 
+
 @media (max-width: 800px) {
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
+    }
+
+    .profile-picture {
+        float: none;
+        border: 5px solid $text-color;
+        height: $img-height;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    h3 {
+        text-align: center;
     }
 }
 
