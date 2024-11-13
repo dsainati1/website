@@ -6,7 +6,7 @@ layout: default
 # About Me
 
 I am a first-year PhD student in the [PLClub](https://www.cis.upenn.edu/~plclub/) at the [University of Pennsylvania](https://www.cis.upenn.edu/),
-where I study type systems and program verification. 
+where I study type systems and language design. 
 My research is supported by the [NSF CSGrad4US Fellowship](https://new.nsf.gov/cise/graduate-fellowships).
 
 Previously, I worked in industry at [Meta](https://opensource.fb.com/) and the [Flow Foundation](https://flow.com/).
