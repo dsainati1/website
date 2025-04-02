@@ -45,6 +45,8 @@ Daniel Sainati, Adrian Sampson\
 
 # Other Work
 
+* I wrote some [lecture notes](./Effects_Lecture_Notes.pdf) about type and effect systems for a lecture I taught in Penn's type systems course (CIS 6700).
+
 * At Meta, I worked on the [Flow](https://flow.org/) type checker for JavaScript. 
 At one point I wrote a [blog post](https://medium.com/flow-type/sound-typing-for-this-in-flow-d62db2af969e) about it. 
 
