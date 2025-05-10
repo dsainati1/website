@@ -20,6 +20,10 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 Daniel Sainati, Adrian Sampson\
 [SPLASH‑E 2018](https://2018.splashcon.org/track/splash-2018-SPLASH-E?)
 
+# Talks 
+
+**Typing Strictness and Laziness with Effects and Coeffects - [NJPLS](https://njpls.org/may2025.html), May 2025**
+
 # Teaching
 
 ### Cornell
