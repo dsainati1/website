@@ -29,6 +29,7 @@ favicon: true
 favicon_location: favicon.png
 
 # Build settings
+theme: minima
 markdown: kramdown
 
 sass:
