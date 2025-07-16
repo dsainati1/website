@@ -20,8 +20,7 @@
 
 title: Daniel Sainati
 email: sainati@seas.upenn.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Daniel Sainati personal website
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dsainati1
@@ -30,12 +29,19 @@ favicon: true
 favicon_location: favicon.png
 
 # Build settings
-theme: minima
 markdown: kramdown
 
 sass:
     style: compressed
     sass_dir: _sass
+
+nav:
+ - name: "CV"
+   link: "/CV.pdf"
+ - name: "Mastodon"
+   link: "https://types.pl/@sainati"
+ - name: "Twitter"
+   link: "https://x.com/sainati_"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -54,10 +54,27 @@ ul ul {
     font-size: 30px;
     color: $href-color;
     display: inline-block;
+
+    small {
+        color: $href-color;
+        font-size: 20px;
+    }
 }
 
 .navbar {
     padding: 50px 0 50px 0;
+}
+
+.navbar-ul {
+    display: inline-block;
+    margin: 0;
+    padding: 5px 0 5px 0;
+    margin-left: 20px;
+}
+
+.nav-list {
+    list-style-type: none;
+    margin: 0 5px 0 5px;
 }
 
 .alignable {
@@ -67,6 +84,11 @@ ul ul {
 .pull-left {
     @extend .alignable;
     float: left;
+}
+
+.pull-right {
+    @extend .alignable;
+    float: right;
 }
 
 /* Divs */

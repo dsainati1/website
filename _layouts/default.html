@@ -38,19 +38,37 @@
     <div class="wrapper">
         <div class="container">
             <div class="navbar">
-                <a id="author-name" class="alignable pull-left" href="/">{{ site.title }}</a>
+                <a id="author-name" class="alignable pull-left" href="/">{{ site.title }}
+                    <small>(he/him)</small>
+                </a>
+                <ul id="navlist" class="alignable pull-right navbar-ul">
+                    {% for x in site.nav %}
+                    {% if x.name == "CV" %}
+                    <li class="alignable pull-left nav-list">
+                        <a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                        {% else %}
+                    <li class="alignable pull-left nav-list">
+                        <a href="{{ x.link }}">{{ x.name }}</a>
+                        {% endif %}
+                        {% if forloop.last == false %}
+                        |
+                        {% endif %}
+                    </li>
+                    {% endfor %}
+                </ul>
             </div>
         </div>
-        <div style="clear:both"></div>
-        <hr>
-        {% if page.is_contact == true %}
+    </div>
+    <div style="clear:both"></div>
+    <hr>
+    {% if page.is_contact == true %}
+    <div class="container content">
+        {% else %}
         <div class="container content">
-            {% else %}
-            <div class="container content">
-                {% endif %}
-                {{ content }}
-            </div>
+            {% endif %}
+            {{ content }}
         </div>
+    </div>
 </body>
 <footer></footer>
 <br>
