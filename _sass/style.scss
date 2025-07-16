@@ -168,4 +168,17 @@ ul ul {
         float: none;
     }
 
+    #navlist {
+        padding: 10px 0 10px 0;
+        margin: 0;
+        display: block;
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+
+    #navlist li.nav-list {
+        margin: 0;
+    }
+
 }
