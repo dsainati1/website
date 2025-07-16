@@ -3,7 +3,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/sainatip/public_html/
     - /bin/cp -R _site/assets $DEPLOYPATH
-    - /bin/cp -R _site/assets/css $DEPLOYPATH
     - /bin/cp _site/404.html $DEPLOYPATH 
     - /bin/cp _site/CV.pdf $DEPLOYPATH 
     - /bin/cp _site/Effects_Lecture_Notes.pdf $DEPLOYPATH 
