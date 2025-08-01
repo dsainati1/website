@@ -16,8 +16,12 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 # Publications
 
+**[Typing Strictness](./typing-strictness-draft.pdf)**\
+*Daniel Sainati*, Joseph W. Cutler, Benjamin C. Pierce, Stephanie Weirich\
+Draft in Submission
+
 **[LambdaLab: An Interactive 𝛌‑Calculus Reducer for Learning](https://www.cs.cornell.edu/~asampson/media/papers/lambdalab-splashe2018.pdf)**\
-Daniel Sainati, Adrian Sampson\
+*Daniel Sainati*, Adrian Sampson\
 [SPLASH‑E 2018](https://2018.splashcon.org/track/splash-2018-SPLASH-E?)
 
 # Talks 
