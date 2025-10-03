@@ -18,7 +18,7 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 **[Typing Strictness](./typing-strictness-preprint.pdf)**\
 *Daniel Sainati*, Joseph W. Cutler, Benjamin C. Pierce, Stephanie Weirich\
-Draft in Submission
+Conditionally Accepted to POPL 2026
 
 **[LambdaLab: An Interactive 𝛌‑Calculus Reducer for Learning](https://www.cs.cornell.edu/~asampson/media/papers/lambdalab-splashe2018.pdf)**\
 *Daniel Sainati*, Adrian Sampson\
