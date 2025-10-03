@@ -5,7 +5,7 @@ deployment:
     - /bin/cp -R _site/assets $DEPLOYPATH
     - /bin/cp _site/404.html $DEPLOYPATH 
     - /bin/cp _site/CV.pdf $DEPLOYPATH 
-    - /bin/cp _site/typing-strictness-draft.pdf $DEPLOYPATH 
+    - /bin/cp _site/typing-strictness-preprint.pdf $DEPLOYPATH 
     - /bin/cp _site/Effects_Lecture_Notes.pdf $DEPLOYPATH 
     - /bin/cp _site/favicon.png $DEPLOYPATH 
     - /bin/cp _site/index.html $DEPLOYPATH
