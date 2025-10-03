@@ -16,7 +16,7 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 # Publications
 
-**[Typing Strictness](./typing-strictness-draft.pdf)**\
+**[Typing Strictness](./typing-strictness-preprint.pdf)**\
 *Daniel Sainati*, Joseph W. Cutler, Benjamin C. Pierce, Stephanie Weirich\
 Draft in Submission
 
