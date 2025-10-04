@@ -30,6 +30,10 @@ Conditionally Accepted to POPL 2026
 
 # Teaching
 
+### Penn 
+* [***CIS 5000***] **Software Foundations**
+    * Teaching Assistant: Fall 2025
+
 ### Cornell
 * [ ***CS 6110*** ] **Advanced Programming Langauges**
     * Teaching Assistant: Spring 2018
