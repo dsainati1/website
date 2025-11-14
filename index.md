@@ -44,7 +44,7 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 
 * [ ***CS 3152*** ] **Introduction to Computer Game Development**
-    * Teaching Assistant: Fall Spring 2017
+    * Teaching Assistant: Spring 2017
 
 
 * [ ***CS 3110*** ] **Data Structures and Functional Programming**
