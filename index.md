@@ -18,7 +18,7 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 **[Typing Strictness](./typing-strictness-preprint.pdf)**\
 *Daniel Sainati*, Joseph W. Cutler, Benjamin C. Pierce, Stephanie Weirich\
-[POPL 2026](https://conf.researchr.org/home/POPL-2026) --- [Extended Version](https://doi.org/10.48550/arXiv.2510.16133)
+[POPL 2026](https://conf.researchr.org/home/POPL-2026) <small>[[Extended Version](https://doi.org/10.48550/arXiv.2510.16133)][[Rocq Proofs](https://github.com/plclub/typing-strictness)]<small>
 
 **[LambdaLab: An Interactive 𝛌‑Calculus Reducer for Learning](https://www.cs.cornell.edu/~asampson/media/papers/lambdalab-splashe2018.pdf)**\
 *Daniel Sainati*, Adrian Sampson\
