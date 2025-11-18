@@ -14,19 +14,36 @@ Before that, I did my B.S. and M.Eng. at [Cornell](https://www.cs.cornell.edu/),
 
 You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or take a look at my [CV](./CV.pdf).
 
+<br />
+
 # Publications
 
-**[Typing Strictness](./typing-strictness-preprint.pdf)**\
-*Daniel Sainati*, Joseph W. Cutler, Benjamin C. Pierce, Stephanie Weirich\
-[POPL 2026](https://conf.researchr.org/home/POPL-2026) <small>[[Extended Version](https://doi.org/10.48550/arXiv.2510.16133)][[Rocq Proofs](https://github.com/plclub/typing-strictness)]<small>
+* **[Typing Strictness](./typing-strictness-preprint.pdf)**\
+<small>*Daniel Sainati*, Joseph W. Cutler, Benjamin C. Pierce, Stephanie Weirich</small> \
+[POPL 2026](https://conf.researchr.org/home/POPL-2026) <small>[[Extended Version](https://doi.org/10.48550/arXiv.2510.16133)][[Rocq Proofs](https://github.com/plclub/typing-strictness)]</small>
 
-**[LambdaLab: An Interactive 𝛌‑Calculus Reducer for Learning](https://www.cs.cornell.edu/~asampson/media/papers/lambdalab-splashe2018.pdf)**\
-*Daniel Sainati*, Adrian Sampson\
+* **[LambdaLab: An Interactive 𝛌‑Calculus Reducer for Learning](https://www.cs.cornell.edu/~asampson/media/papers/lambdalab-splashe2018.pdf)**\
+<small>*Daniel Sainati*, Adrian Sampson</small>\
 [SPLASH‑E 2018](https://2018.splashcon.org/track/splash-2018-SPLASH-E?)
+
+
+### Drafts 
+
+* **[Modular GPU Programming with Typed Perspectives](https://arxiv.org/abs/2511.11939)**\
+<small>Manya Bansal, *Daniel Sainati*, Joseph W. Cutler, Saman Amarasinghe, Jonathan Ragan-Kelley</small>\
+Submitted
+
+* **[The Search for Constrained Random Generators](https://arxiv.org/abs/2511.12253)**\
+<small>Harrison Goldstein, Hila Peleg, Cassia Torczon, *Daniel Sainati*, Leonidas Lampropoulos, Benjamin C. Pierce</small>\
+Submitted
+
+<br />
 
 # Talks 
 
 **Typing Strictness and Laziness with Effects and Coeffects - [NJPLS](https://njpls.org/may2025.html), May 2025**
+
+<br />
 
 # Teaching
 
@@ -54,6 +71,8 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 * [ ***CS 2110*** ] **Object‑Oriented Programming and Data Structures**
     * Consultant: Spring 2015
+
+<br />
 
 # Other Work
 
