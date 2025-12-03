@@ -52,7 +52,7 @@ Submitted
 # Teaching
 
 ### Penn 
-* [***CIS 5000***] **Software Foundations**
+* [ ***CIS 5000*** ] **Software Foundations**
     * Teaching Assistant: Fall 2025
 
 ### Cornell
