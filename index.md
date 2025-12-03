@@ -41,7 +41,11 @@ Submitted
 
 # Talks 
 
-**Typing Strictness and Laziness with Effects and Coeffects - [NJPLS](https://njpls.org/may2025.html), May 2025**
+* **Typing Strictness**\
+[PLDG](https://pl.cs.cornell.edu/) @ Cornell, December 2025 <small>(invited)</small>
+
+* **Typing Strictness and Laziness with Effects and Coeffects**\\
+[NJPLS](https://njpls.org/may2025.html), May 2025
 
 <br />
 
