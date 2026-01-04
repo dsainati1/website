@@ -18,7 +18,7 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 # Publications
 
-* **[Typing Strictness](./typing-strictness-preprint.pdf)**\
+* **[Typing Strictness](./typing-strictness.pdf)**\
 <small>*Daniel Sainati*, Joseph W. Cutler, Benjamin C. Pierce, Stephanie Weirich</small> \
 [POPL 2026](https://conf.researchr.org/home/POPL-2026) <small>[[Extended Version](https://doi.org/10.48550/arXiv.2510.16133)][[Rocq Proofs](https://github.com/plclub/typing-strictness)]</small>
 
