@@ -42,6 +42,12 @@ Submitted
 # Talks 
 
 * **Typing Strictness**\
+[Formal Methods Seminar](https://cs.nyu.edu/acsys/) @ NYU, February 2026 <small>(invited)</small>
+
+* **Typing Strictness**\
+PLV Seminar @ Portland State, February 2026 <small>(invited)</small>
+
+* **Typing Strictness**\
 [PLDG](https://pl.cs.cornell.edu/) @ Cornell, December 2025 <small>(invited)</small>
 
 * **Typing Strictness and Laziness with Effects and Coeffects**\\
