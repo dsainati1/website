@@ -31,11 +31,11 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 * **[Modular GPU Programming with Typed Perspectives](https://arxiv.org/abs/2511.11939)**\
 <small>Manya Bansal, *Daniel Sainati*, Joseph W. Cutler, Saman Amarasinghe, Jonathan Ragan-Kelley</small>\
-Submitted
+[PLDI 2026](https://pldi26.sigplan.org/)
 
 * **[The Search for Constrained Random Generators](https://arxiv.org/abs/2511.12253)**\
 <small>Harrison Goldstein, Hila Peleg, Cassia Torczon, *Daniel Sainati*, Leonidas Lampropoulos, Benjamin C. Pierce</small>\
-Submitted
+[PLDI 2026](https://pldi26.sigplan.org/)
 
 <br />
 
