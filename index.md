@@ -18,17 +18,6 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 # Publications
 
-* **[Typing Strictness](./typing-strictness.pdf)**\
-<small>*Daniel Sainati*, Joseph W. Cutler, Benjamin C. Pierce, Stephanie Weirich</small> \
-[POPL 2026](https://conf.researchr.org/home/POPL-2026) <small>[[Talk Recording](https://www.youtube.com/watch?v=Lr339NLTqOk)][[Extended Version](https://doi.org/10.48550/arXiv.2510.16133)][[Rocq Proofs](https://github.com/plclub/typing-strictness)]</small>
-
-* **[LambdaLab: An Interactive 𝛌‑Calculus Reducer for Learning](https://www.cs.cornell.edu/~asampson/media/papers/lambdalab-splashe2018.pdf)**\
-<small>*Daniel Sainati*, Adrian Sampson</small>\
-[SPLASH‑E 2018](https://2018.splashcon.org/track/splash-2018-SPLASH-E?)
-
-
-### Drafts 
-
 * **[Modular GPU Programming with Typed Perspectives](https://arxiv.org/abs/2511.11939)**\
 <small>Manya Bansal, *Daniel Sainati*, Joseph W. Cutler, Saman Amarasinghe, Jonathan Ragan-Kelley</small>\
 [PLDI 2026](https://pldi26.sigplan.org/)
@@ -36,6 +25,14 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 * **[The Search for Constrained Random Generators](https://arxiv.org/abs/2511.12253)**\
 <small>Harrison Goldstein, Hila Peleg, Cassia Torczon, *Daniel Sainati*, Leonidas Lampropoulos, Benjamin C. Pierce</small>\
 [PLDI 2026](https://pldi26.sigplan.org/)
+
+* **[Typing Strictness](./typing-strictness.pdf)**\
+<small>*Daniel Sainati*, Joseph W. Cutler, Benjamin C. Pierce, Stephanie Weirich</small> \
+[POPL 2026](https://conf.researchr.org/home/POPL-2026) <small>[[Talk Recording](https://www.youtube.com/watch?v=Lr339NLTqOk)][[Extended Version](https://doi.org/10.48550/arXiv.2510.16133)][[Rocq Proofs](https://github.com/plclub/typing-strictness)]</small>
+
+* **[LambdaLab: An Interactive 𝛌‑Calculus Reducer for Learning](https://www.cs.cornell.edu/~asampson/media/papers/lambdalab-splashe2018.pdf)**\
+<small>*Daniel Sainati*, Adrian Sampson</small>\
+[SPLASH‑E 2018](https://2018.splashcon.org/track/splash-2018-SPLASH-E?)
 
 <br />
 
