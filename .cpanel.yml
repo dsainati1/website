@@ -9,4 +9,5 @@ deployment:
     - /bin/cp _site/Effects_Lecture_Notes.pdf $DEPLOYPATH 
     - /bin/cp _site/favicon.png $DEPLOYPATH 
     - /bin/cp _site/index.html $DEPLOYPATH
+    - /bin/cp _site/restaurants.html $DEPLOYPATH
     - /bin/cp _site/picture.png $DEPLOYPATH  

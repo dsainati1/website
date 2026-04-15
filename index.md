@@ -97,3 +97,4 @@ Some contributions here that I am particularly proud of are [Entitlements](https
 * In undergrad, some classmates and I released a mobile game called [Underhand](https://play.google.com/store/apps/details?id=edu.cornell.gdiac.underhand&hl=en_US&pli=1).
 We haven't maintained it at all, and at some point it was delisted from the Apple Store, but if you're interested you can probably figure out a way to emulate it.
 
+* My [thoughts](./restaurants.html) on Philadelphia restaurants.
