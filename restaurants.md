@@ -60,7 +60,7 @@ My full list of restaurant visits is tracked on my Beli; I won’t rate restaura
 
 ### Manhattan 
 Okay, this isn’t a neighborhood of Philly. It is, however, only 90 minutes away by Amtrak, and you can find round-trip tickets for as low as $20 if you book far enough in advance. Writing a list like this for all of Manhattan would be impossible, so I’ve limited myself to restaurants that a) are easily accessible from Penn Station, and b) satisfy a need that is otherwise lacking in Philadelphia itself. 
-* [Cho Dang Gol](https://chodanggolnyc.com/) ($$$) - DuBu is good, but CDG is on another level entirely. The tofu is made in-house, and has a texture unlike anything you’ll find from the mass-produced stuff 
+* [Cho Dang Gol](https://chodanggolnyc.com/) ($$$) - DuBu is good, but CDG is on another level entirely. The tofu is made in-house, and has a texture unlike anything you’ll find from the mass-produced stuff. 
 * [Urban Hawker](https://www.urbanhawker.com/) ($$) - Singaporean. This is a cuisine entirely unrepresented in Philly, and that’s really sad, because it’s extremely cool. 
 * [La Nacional](https://lanacional.org/restaurant-menu) ($$$) - The most authentic Spanish I’ve eaten this side of the Atlantic, probably due to their practice of bringing over and training chefs from Spain.
 * [SHINN](https://www.shinneast.com/) ($$$) - Budget Omakase. For $70 get a dozen courses of high quality fish in just under an hour. Better cost-to-performance ratio than any omakase I’ve had outside of Japan, even if you factor in the cost of the train tickets from Philly. 
