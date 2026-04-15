@@ -51,7 +51,7 @@ My full list of restaurant visits is tracked on my Beli; I won’t rate restaura
 * [Tabachoy](https://www.tabachoyphilly.com/) ($$) - Filipino BYOB, served tapas-style. I’ve heard good things about the tasting menu, but I’ve personally never ordered it because I can’t bring myself to skip the **Bicol Express**. 
 
 ### North Philly 
-* [DuBu](https://duburestaurant.com/) ($$) - Philly’s best Korean food. Their Kimchi is especially excellent, you can order it in bulk to go, and it’s cheaper than places like HMart will usually sell it for too.
+* [DuBu](https://duburestaurant.com/) ($$) - Philly’s best Korean food. Their *Kimchi* is especially excellent, you can order it in bulk to go, and it’s cheaper than places like HMart will usually sell it for too.
 * [China Gourmet](https://phillychinagourmet.com/) ($$) - Location is not exactly convenient, but it’s worth making the trip at least once if you can for Philly’s best **Dim Sum**. 
 * [Kalaya](https://kalayaphilly.com/) (\$\$\$\$) - Thai small plates in a beautiful space. The **Crab Fried Rice** is a classic for a reason, but make sure to save room for the **Durian Sticky Rice** afterwards.  
 * [Kim’s BBQ](https://www.yelp.com/biz/kims-restaurant-philadelphia) ($$$) - Korean Barbecue on a wood-fired grill.
