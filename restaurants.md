@@ -37,19 +37,22 @@ My full list of restaurant visits is tracked on my Beli; I won’t rate restaura
 * [Sidecar](https://www.thesidecarbar.com/) ($$) - Bar food. The menu rotates, but if you get lucky and they have a pasta dish, order it. The weekly quizzo here is also quite fun. 
 * [Vernick](https://www.vernickphilly.com/) (\$\$\$\$) - A la carte fine dining. Like any good fine dining establishment, the menu rotates seasonally, but some staples make repeat appearances. I recommend the **Blue Crab** and **Foie Gras** Toasts.
 
-### Italian Market and South Philly 
+### Italian Market and Queen Village 
 * [Blue Corn](https://www.bluecornmexphilly.com/) ($$) - Mexican. They do indeed have **Blue Corn Tacos** but that is hardly the whole menu.
 * [Dante and Luigi’s](https://danteandluigis.com/) ($$$) - White tablecloth Italian-American. The kind of place where the pasta comes with “gravy” and the waitstaff drops the i’s from the ends of the names of the dishes.  
-* [Hardena](https://hardenapa.com/) ($$) - Laid-back Indonesian neighborhood joint. Everything I’ve tried from the steam cart has been excellent, but the **Sambal** and **Chicken Satay** are the real showstoppers here. If you’re there on a weekend the **Jackfruit Stew** is also particularly good.
 * [Fiorella](https://fiorellaphilly.com/) ($$$) - Pasta. Their tasting menu upstairs is a bit overpriced, but the a la carte options are great. 
 * [Isgro](https://www.isgropastries.com/) ($$) - Italian bakery. The **Rainbow Cookies** are unbelievably addictive.
 * [John’s Water Ice](https://johnswaterice.com/) ($) - Italian ice, sort of, but the description doesn’t really do it justice. The water ice here has a much thicker and creamier texture, despite containing no dairy. 
 * [Little Fish](https://www.littlefishbyob.com/) (\$\$\$\$) - Seafood. Genuinely a crime this got overlooked by the Michelin guide; it’s at least as good as any of their recommended restaurants.
 * [Mawn](https://mawnphilly.com/) ($$$) - Cambodian. This restaurant was the subject of a ridiculous amount of hype during my first year at Penn, mostly deservedly. The **Crab Fried Rice** is even better than Kalaya’s.
+* [Tabachoy](https://www.tabachoyphilly.com/) ($$) - Filipino BYOB, served tapas-style. I’ve heard good things about the tasting menu, but I’ve personally never ordered it because I can’t bring myself to skip the **Bicol Express**. 
+
+### Passyunk and South Philly
+* [Hardena](https://hardenapa.com/) ($$) - Laid-back Indonesian neighborhood joint. Everything I’ve tried from the steam cart has been excellent, but the **Sambal** and **Chicken Satay** are the real showstoppers here. If you’re there on a weekend the **Jackfruit Stew** is also particularly good.
+* [Griddle & Rice](https://www.griddlericephilly.com/) ($$) - Indonesian breakfast food, open all day. I've heard it gets quite crowded on weekends, but the crowds are quite beatable if you go early. Has an extensive coffee menu to go with the various rice-sambal-egg-meat plates. 
 * [Milk Jawn](https://milkjawn.com/) ($$) - Ice Cream. You won’t find any especially unusual flavors here, but the standard ones are all executed extremely well.  
 * [Pho 75](https://phillypho.com/) ($) - Vietnamese noodles. Does exactly one thing and does it well. 
 * [Sunny Scoop](https://www.instagram.com/sunny.scoop/) ($$) - The best *Black Sesame* ice cream I’ve found in Philly. $5.50 for a scoop + topping + sauce is also a great deal.
-* [Tabachoy](https://www.tabachoyphilly.com/) ($$) - Filipino BYOB, served tapas-style. I’ve heard good things about the tasting menu, but I’ve personally never ordered it because I can’t bring myself to skip the **Bicol Express**. 
 
 ### North Philly 
 * [DuBu](https://duburestaurant.com/) ($$) - Philly’s best Korean food. Their **Kimchi** is especially excellent, you can order it in bulk to go, and it’s cheaper than places like HMart will usually sell it for too.
@@ -57,7 +60,6 @@ My full list of restaurant visits is tracked on my Beli; I won’t rate restaura
 * [Kalaya](https://kalayaphilly.com/) (\$\$\$\$) - Thai small plates in a beautiful space. The **Crab Fried Rice** is a classic for a reason, but make sure to save room for the **Durian Sticky Rice** afterwards.  
 * [Kim’s BBQ](https://www.yelp.com/biz/kims-restaurant-philadelphia) ($$$) - Korean Barbecue on a wood-fired grill.
 * [Suraya](https://www.surayaphilly.com/) ($$$) - Middle Eastern. I don’t think it’s quite deserving of all the hype it gets, but the **Pita** is quite delicious. 
-
 
 ### Manhattan 
 Okay, this isn’t a neighborhood of Philly. It is, however, only 90 minutes away by Amtrak, and you can find round-trip tickets for as low as $20 if you book far enough in advance. Writing a list like this for all of Manhattan would be impossible, so I’ve limited myself to restaurants that a) are easily accessible from Penn Station, and b) satisfy a need that is otherwise lacking in Philadelphia itself. 
