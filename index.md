@@ -19,7 +19,7 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 # Publications
 
-* **[Modular GPU Programming with Typed Perspectives](https://arxiv.org/abs/2511.11939)**\
+* **[Modular GPU Programming with Typed Perspectives](https://arxiv.org/abs/2511.11939)** (**Distinguished Paper**)\
 <small>Manya Bansal, *Daniel Sainati*, Joseph W. Cutler, Saman Amarasinghe, Jonathan Ragan-Kelley</small>\
 [PLDI 2026](https://pldi26.sigplan.org/)
 
