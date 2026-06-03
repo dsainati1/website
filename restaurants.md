@@ -55,8 +55,9 @@ My full list of restaurant visits is tracked on my Beli; I won’t rate restaura
 * [Sunny Scoop](https://www.instagram.com/sunny.scoop/) ($$) - The best *Black Sesame* ice cream I’ve found in Philly. $5.50 for a scoop + topping + sauce is also a great deal.
 
 ### North Philly 
-* [DuBu](https://duburestaurant.com/) ($$) - Philly’s best Korean food. Their **Kimchi** is especially excellent, you can order it in bulk to go, and it’s cheaper than places like HMart will usually sell it for too.
+* [Càphê Roasters](https://www.capheroasters.com/) ($$) - Vietnamese coffee and banh mi. Great spot to post up with a laptop and work if you want to get out of the office. 
 * [China Gourmet](https://phillychinagourmet.com/) ($$) - Location is not exactly convenient, but it’s worth making the trip at least once if you can for Philly’s best **Dim Sum**. 
+* [DuBu](https://duburestaurant.com/) ($$) - Philly’s best Korean food. Their **Kimchi** is especially excellent, you can order it in bulk to go, and it’s cheaper than places like HMart will usually sell it for too.
 * [Kalaya](https://kalayaphilly.com/) (\$\$\$\$) - Thai small plates in a beautiful space. The **Crab Fried Rice** is a classic for a reason, but make sure to save room for the **Durian Sticky Rice** afterwards.  
 * [Kim’s BBQ](https://www.yelp.com/biz/kims-restaurant-philadelphia) ($$$) - Korean Barbecue on a wood-fired grill.
 * [Suraya](https://www.surayaphilly.com/) ($$$) - Middle Eastern. I don’t think it’s quite deserving of all the hype it gets, but the **Pita** is quite delicious. 
