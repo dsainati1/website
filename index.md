@@ -19,11 +19,11 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 # Publications
 
-* **[Modular GPU Programming with Typed Perspectives](https://arxiv.org/abs/2511.11939)** (**Distinguished Paper**)\
+* **[Modular GPU Programming with Typed Perspectives](https://dl.acm.org/doi/10.1145/3808290)** (**Distinguished Paper**)\
 <small>Manya Bansal, *Daniel Sainati*, Joseph W. Cutler, Saman Amarasinghe, Jonathan Ragan-Kelley</small>\
 [PLDI 2026](https://pldi26.sigplan.org/)
 
-* **[The Search for Constrained Random Generators](https://arxiv.org/abs/2511.12253)**\
+* **[The Search for Constrained Random Generators](https://dl.acm.org/doi/10.1145/3808329)**\
 <small>Harrison Goldstein, Hila Peleg, Cassia Torczon, *Daniel Sainati*, Leonidas Lampropoulos, Benjamin C. Pierce</small>\
 [PLDI 2026](https://pldi26.sigplan.org/)
 
