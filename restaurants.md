@@ -57,6 +57,8 @@ My full list of restaurant visits is tracked on my Beli; I won’t rate restaura
 * [Càphê Roasters](https://www.capheroasters.com/) ($$) - Vietnamese coffee and banh mi. Great spot to post up with a laptop and work if you want to get out of the office. 
 * [China Gourmet](https://phillychinagourmet.com/) ($$) - Location is not exactly convenient, but it’s worth making the trip at least once if you can for Philly’s best **Dim Sum**. 
 * [DuBu](https://duburestaurant.com/) ($$) - Philly’s best Korean food. Their **Kimchi** is especially excellent, you can order it in bulk to go, and it’s cheaper than places like HMart will usually sell it for too.
+* [Gilda](https://www.gildaphilly.com/) ($$) - Portuguese café and bakery. They carry Elixr coffee, which is nice, but the real reason to go is for their 
+**Pasteis de Nata**. If you go right when they open the pasteis are even warm.
 * [Kalaya](https://kalayaphilly.com/) (\$\$\$\$) - Thai small plates in a beautiful space. The **Crab Fried Rice** is a classic for a reason, but make sure to save room for the **Durian Sticky Rice** afterwards.  
 * [Kim’s BBQ](https://www.yelp.com/biz/kims-restaurant-philadelphia) ($$$) - Korean Barbecue on a wood-fired grill. I hadn't ever had wood-grilled KBBQ before coming here and 
 was surprised at how much difference it makes. 
