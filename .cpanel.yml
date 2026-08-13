@@ -6,7 +6,7 @@ deployment:
     - /bin/cp _site/404.html $DEPLOYPATH 
     - /bin/cp _site/CV.pdf $DEPLOYPATH 
     - /bin/cp _site/typing-strictness.pdf $DEPLOYPATH 
-    - /bin/cp _site/gpu-survey-rough-draft.pdf $DEPLOYPATH 
+    - /bin/cp _site/gpu-survey-draft.pdf $DEPLOYPATH 
     - /bin/cp _site/Effects_Lecture_Notes.pdf $DEPLOYPATH 
     - /bin/cp _site/favicon.png $DEPLOYPATH 
     - /bin/cp _site/index.html $DEPLOYPATH
