@@ -10,7 +10,7 @@ where I study type systems and language design with [Benjamin Pierce](https://ww
 I am particularly interested in GPUs and how we can use ideas from PL to improve their programming abstractions. 
 My research is supported by the [NSF CSGrad4US Fellowship](https://new.nsf.gov/cise/graduate-fellowships).
 
-Previously, I worked in industry at [Meta](https://opensource.fb.com/) and the [Flow Foundation](https://flow.com/).
+Previously, I did PL in industry at [Meta](https://opensource.fb.com/) and the [Flow Foundation](https://flow.com/).
 Before that, I did my B.S. and M.Eng. at [Cornell](https://www.cs.cornell.edu/), where I was advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/). 
 
 You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or take a look at my [CV](./CV.pdf).
@@ -57,10 +57,11 @@ PLV Seminar @ Portland State, February 2026 <small>(invited)</small>
 
 ### Penn 
 * [ ***CIS 5000*** ] **Software Foundations**
+    * Teaching Assistant: Fall 2026
     * Teaching Assistant: Fall 2025
 
 ### Cornell
-* [ ***CS 6110*** ] **Advanced Programming Langauges**
+* [ ***CS 6110*** ] **Advanced Programming Languages**
     * Teaching Assistant: Spring 2018
 
 
