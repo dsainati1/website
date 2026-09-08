@@ -5,7 +5,7 @@ layout: default
 
 # About Me
 
-I am a second-year PhD student in the [PLClub](https://www.cis.upenn.edu/~plclub/) at the [University of Pennsylvania](https://www.cis.upenn.edu/),
+I am a third-year PhD student in the [PLClub](https://www.cis.upenn.edu/~plclub/) at the [University of Pennsylvania](https://www.cis.upenn.edu/),
 where I study type systems and language design with [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) and [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/). 
 I am particularly interested in GPUs and how we can use ideas from PL to improve their programming abstractions. 
 My research is supported by the [NSF CSGrad4US Fellowship](https://new.nsf.gov/cise/graduate-fellowships).
@@ -38,6 +38,12 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 <br />
 
 # Talks 
+
+* **Modular GPU Programming with Typed Perspectives**\\
+Cognitive Engineering Lab @ Brown, September 2026 <small>(invited)</small>
+
+* **Modular GPU Programming with Typed Perspectives**\\
+Code Generation Knowledge Forum @ MathWorks, September 2026 <small>(invited)</small>
 
 * **Typing Strictness**\
 [Formal Methods Seminar](https://cs.nyu.edu/acsys/) @ NYU, February 2026 <small>(invited)</small>
