@@ -40,7 +40,7 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 # Talks 
 
 * **Modular GPU Programming with Typed Perspectives**\\
-Cognitive Engineering Lab @ Brown, September 2026 <small>(invited)</small>
+[Cognitive Engineering Lab](https://cel.cs.brown.edu/) @ Brown, September 2026 <small>(invited)</small>
 
 * **Modular GPU Programming with Typed Perspectives**\\
 Code Generation Knowledge Forum @ MathWorks, September 2026 <small>(invited)</small>
