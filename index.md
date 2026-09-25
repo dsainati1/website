@@ -17,6 +17,12 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 <br />
 
+### Drafts 
+
+* **[Programming Languages and Formal Methods for GPUs](./gpu-survey-draft.pdf)**\
+<small>***Daniel Sainati***, Cynthia Richey, Paul Biberstein, Yuka Ikarashi, Benjamin C. Pierce</small>\
+Submitted
+
 # Publications
 
 * **[Modular GPU Programming with Typed Perspectives](https://dl.acm.org/doi/10.1145/3808290)** (**Distinguished Paper**)\
