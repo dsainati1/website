@@ -17,13 +17,15 @@ You can reach me at [sainati@seas.upenn.edu](mailto:sainati@seas.upenn.edu), or 
 
 <br />
 
+# Publications
+
 ### Drafts 
 
 * **[Programming Languages and Formal Methods for GPUs](./gpu-survey-draft.pdf)**\
 <small>***Daniel Sainati***, Cynthia Richey, Paul Biberstein, Yuka Ikarashi, Benjamin C. Pierce</small>\
 Submitted
 
-# Publications
+## Refereed Publications
 
 * **[Modular GPU Programming with Typed Perspectives](https://al.radbox.org/doi/10.1145/3808290)** (**Distinguished Paper**)\
 <small>Manya Bansal, ***Daniel Sainati***, Joseph W. Cutler, Saman Amarasinghe, Jonathan Ragan-Kelley</small>\
@@ -40,6 +42,11 @@ Submitted
 * **[LambdaLab: An Interactive 𝛌‑Calculus Reducer for Learning](https://al.radbox.org/doi/10.1145/3310089.3313180)**\
 <small>***Daniel Sainati***, Adrian Sampson</small>\
 [SPLASH‑E 2018](https://2018.splashcon.org/track/splash-2018-SPLASH-E?)
+
+## Books
+
+* **[Software Foundations in Lean](https://github.com/plclub/sf-in-lean)**\
+<small>Mike Hicks, Benjamin C. Pierce, and the ***Software Foundations in Lean Team***</small>
 
 <br />
 
