@@ -47,6 +47,8 @@ My full list of restaurant visits is tracked on my Beli; I won’t rate restaura
 * [Tabachoy](https://www.tabachoyphilly.com/) ($$) - Filipino BYOB, served tapas-style. I’ve heard good things about the tasting menu, but I’ve personally never ordered it because I can’t bring myself to skip the **Bicol Express**. 
 
 ### Passyunk and South Philly
+* [Artisan Boulanger Patissier](https://www.yelp.com/biz/artisan-boulanger-patissier-philadelphia-2) ($$) - French bakery, 
+but the real prize here is the **Pork Belly Banh Mi**. Much better than Ba Le, and cheaper too. 
 * [Hardena](https://hardenapa.com/) ($$) - Laid-back Indonesian neighborhood joint. Everything I’ve tried from the steam cart has been excellent, but the **Sambal** and **Chicken Satay** are the real showstoppers here. If you’re there on a weekend the **Jackfruit Stew** is also particularly good.
 * [Griddle & Rice](https://www.griddlericephilly.com/) ($$) - Indonesian breakfast food, open all day. I've heard it gets quite crowded on weekends, but the crowds are quite beatable if you go early. Has an extensive coffee menu to go with the various rice-sambal-egg-meat plates. 
 * [Milk Jawn](https://milkjawn.com/) ($$) - Ice Cream. You won’t find any especially unusual flavors here, but the standard ones are all executed extremely well.  
